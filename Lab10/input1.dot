@@ -1,0 +1,31 @@
+digraph G {
+Micky_Mouse [label="Micky_Mouse, distance = 0"];
+Micky_Mouse -> Wille_E_Coyote;
+Micky_Mouse -> Scoobie_Doo;
+Parah_Salin [label="Parah_Salin, distance = 3"];
+Parah_Salin -> Joe_the_Plumber;
+Parah_Salin -> Micky_Mouse;
+Parah_Salin -> Kim_Jong_Il;
+Parah_Salin -> Hugo_Chavez;
+Joe_the_Plumber [label="Joe_the_Plumber, distance = 2"];
+Joe_the_Plumber -> Parah_Salin;
+Joe_the_Plumber -> Wille_E_Coyote;
+Joe_the_Plumber -> Tilla_Tequila;
+Wille_E_Coyote [label="Wille_E_Coyote, distance = 1"];
+Wille_E_Coyote -> Micky_Mouse;
+Wille_E_Coyote -> Joe_the_Plumber;
+Tilla_Tequila [label="Tilla_Tequila, distance = 3"];
+Tilla_Tequila -> Parah_Salin;
+Tilla_Tequila -> Joe_the_Plumber;
+Tilla_Tequila -> Scoobie_Doo;
+Kim_Jong_Il [label="Kim_Jong_Il, distance = 4"];
+Kim_Jong_Il -> Micky_Mouse;
+Kim_Jong_Il -> Tilla_Tequila;
+Kim_Jong_Il -> Joe_the_Plumber;
+Scoobie_Doo [label="Scoobie_Doo, distance = 1"];
+Scoobie_Doo -> Wille_E_Coyote;
+Hugo_Chavez [label="Hugo_Chavez, distance = 4"];
+Hugo_Chavez -> Parah_Salin;
+Hugo_Chavez -> Micky_Mouse;
+Hugo_Chavez -> Scoobie_Doo;
+}

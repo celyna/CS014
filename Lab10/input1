@@ -1,0 +1,31 @@
+8
+21
+Micky_Mouse
+Parah_Salin
+Joe_the_Plumber
+Wille_E_Coyote
+Tilla_Tequila
+Kim_Jong_Il
+Scoobie_Doo
+Hugo_Chavez
+Micky_Mouse Wille_E_Coyote 1
+Scoobie_Doo Wille_E_Coyote 1
+Tilla_Tequila Parah_Salin 1
+Tilla_Tequila Joe_the_Plumber 1
+Hugo_Chavez Parah_Salin 1
+Parah_Salin Joe_the_Plumber 1
+Joe_the_Plumber Parah_Salin 1
+Micky_Mouse Scoobie_Doo 1
+Parah_Salin Micky_Mouse 1
+Joe_the_Plumber Wille_E_Coyote 1
+Kim_Jong_Il Micky_Mouse 1
+Wille_E_Coyote Micky_Mouse 1
+Parah_Salin Kim_Jong_Il 1
+Joe_the_Plumber Tilla_Tequila 1
+Tilla_Tequila Scoobie_Doo 1
+Kim_Jong_Il Tilla_Tequila 1
+Kim_Jong_Il Joe_the_Plumber 1
+Hugo_Chavez Micky_Mouse 1
+Parah_Salin Hugo_Chavez 1
+Hugo_Chavez Scoobie_Doo 1
+Wille_E_Coyote Joe_the_Plumber 1

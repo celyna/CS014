@@ -1,0 +1,19 @@
+digraph G2 {
+
+  // nodes
+  a [color = lightblue, style = filled, label="key=4, h=2"];
+  b [color = lightblue, style = filled, label="key=2, h=1"];
+  c [color = lightblue, style = filled, label="key=6, h=1"];
+  d [color = lightblue, style = filled, label="key=1, h=0"];
+  e [color = lightblue, style = filled, label="key=3, h=0"]; 
+  f [color = lightblue, style = filled, label="key=5, h=0"];
+  g [color = lightblue, style = filled, label="key=7, h=0"];
+
+  // edges    
+  a -> b; 
+  a -> c;
+  b -> d; 
+  b -> e; 
+  c -> f; 
+  c -> g; 
+}

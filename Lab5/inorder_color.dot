@@ -1,0 +1,19 @@
+digraph G3 {
+
+  // nodes
+  a [color = red, peripheries=2, style = filled, label="key=4, in=4"];
+  b [color = red, peripheries=2, style = filled, label="key=2, in=2"];
+  c [color = red, peripheries=2, style = filled, label="key=6, in=6"];
+  d [color = red, peripheries=2, style = filled, label="key=1, in=1"];
+  e [color = red, peripheries=2, style = filled, label="key=3, in=3"]; 
+  f [color = red, peripheries=2, style = filled, label="key=5, in=5"];
+  g [color = red, peripheries=2, style = filled, label="key=7, in=7"];
+
+  // edges    
+  a -> b; 
+  a -> c;
+  b -> d;
+  b -> e; 
+  c -> f;
+  c -> g;
+}
